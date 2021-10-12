@@ -1,0 +1,2 @@
+[{app,mydivi},{vsn,"1.0.0"},{git_path,"https://github.com/joq62/mydivi.git"},{replicas,1},{hosts,['controller@c0']}].
+[{app,myadd},{vsn,"1.0.0"},{git_path,"https://github.com/joq62/myadd.git"},{replicas,2},{hosts,[]}].
