@@ -1,2 +1,3 @@
 [{app,mydivi},{vsn,"1.0.0"},{git_path,"https://github.com/joq62/mydivi.git"},{replicas,1},{hosts,['controller@c0']}].
 [{app,myadd},{vsn,"1.0.0"},{git_path,"https://github.com/joq62/myadd.git"},{replicas,2},{hosts,['controller@c0','controller@c2']}].
+[{app,balcony},{vsn,"1.0.0"},{git_path,"https://github.com/joq62/balcony.git"},{replicas,1},{hosts,['controller@c0']}].	
